@@ -17,13 +17,8 @@ data class Path(val cells: Set<Position>, val cost: Float)
 
 There are two different flavours for the same A* algorithm, an Iterative version and a Tail Recursive version
 
-## Recursive version
-
-Inspired by [Rosetta code](https://rosettacode.org/wiki/A*_search_algorithm#Kotlin)
-
-## Recursive version
-
-Inspired by [Nicolas Lepage](https://github.com/nlepage) and his [repository](https://github.com/nlepage/kotlin-advent-2018)
+* **Recursive version** Inspired by [Rosetta code](https://rosettacode.org/wiki/A*_search_algorithm#Kotlin)
+* **Recursive version** Inspired by [Nicolas Lepage](https://github.com/nlepage) and his [repository](https://github.com/nlepage/kotlin-advent-2018)
 
 ## Benchmarking
 
